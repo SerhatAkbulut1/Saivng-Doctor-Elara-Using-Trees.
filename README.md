@@ -1,4 +1,4 @@
-# Saivng-Doctor-Elara-Using-Trees.
+# Saving-Doctor-Elara-Using-Trees.
 
 ## Introduction
 This repository contains code for implementing algorithms and data structures to facilitate space exploration and rescue operations. The project builds upon previous programming assignments, leveraging concepts such as Binary Search Trees (BSTs) and Left-Leaning Red-Black Trees (LLRBTs) to map space sectors and optimize traversal paths.
